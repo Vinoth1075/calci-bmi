@@ -1,0 +1,64 @@
+body{
+    height: 500px;
+    width: 500px;
+    border: 4px solid wheat;
+    margin: auto;
+    margin-top: 90px;
+    background: url(./pexels-iriser-1379640.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+#head{
+    margin-left: 85px;
+    color: white;
+}
+#he{
+    margin-left: 100px;
+    color: white;
+}
+
+
+#h{
+    margin-left: 130px;
+    background: black;
+    color: white;
+}
+#w{
+    margin-left: 100px;
+    color: white;
+}
+
+#we{
+    margin-left: 130px;
+    background: black;
+    color: white;
+}
+#bmi{
+    margin-left: 160px;
+    margin-top: 30px;
+    height: 35px;
+    width: 100px;
+    background-color:chocolate;
+    color: wheat;
+    background: rgba(0, 0, 0, 0.8);
+    
+}
+#bv{
+    margin-left: 80px;
+    margin-top: 30px;
+    color: white;
+}
+
+#bt{
+    margin-left: 80px;
+    margin-top: 10px;
+    color: white;
+}
+
+
+#value{
+    margin-left: 210px;
+}
+#type{
+    margin-left: 210px;
+}
